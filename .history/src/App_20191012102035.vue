@@ -1,8 +1,6 @@
-// 单文件组件
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <!-- 显示的是当前路由地址所对应的内容 -->
     <router-view/>
   </div>
 </template>
