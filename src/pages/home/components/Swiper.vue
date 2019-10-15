@@ -1,14 +1,13 @@
 <template>
-  <div>home</div>
+  
 </template>
 
 <script>
 export default {
-  name: 'Home'
+  name: 'HomeSwiper'
 }
 </script>
 
-<style scoped>
+<style lang="stylus" scoped>
 
 </style>
-
